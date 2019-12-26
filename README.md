@@ -4,7 +4,7 @@ This Repository has different options for scraping data from Twitter.
 
 1. Twitter Scraper with TwitterScraper
   
-I'm using a library called TwitterScraper built specifically for what it is called. I believe it works pretty well. There are 2 things you can focus on when scraping the data. You can use the Twitter handle of an individual or you can use a keywor/phrase.
+I'm using a library called TwitterScraper built specifically for what it is called. I believe it works pretty well. There are 2 things you can focus on when scraping the data. You can use the Twitter handle of an individual or you can use a keyword/phrase.
 
 I think this was a really good option and returned a large amount of data.
 
